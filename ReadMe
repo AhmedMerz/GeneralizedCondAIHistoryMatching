@@ -1,0 +1,9 @@
+The simulation files contain the base case simulation used for this system. 
+it contains a permeability file and base simulation file. The content of permeabilty file changes during history matching for every ensemble
+
+
+The Sr3Reader.py is a python script to read CMG simulator results 
+
+The workflow is described in the DIRECT2025_08_Merzoug_GeneralizedCondAIHistoryMatching
+
+The WGAN-GP (Generative AI model) is trained using the WGAN-GP.ipynb
