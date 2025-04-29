@@ -7,3 +7,6 @@ The Sr3Reader.py is a python script to read CMG simulator results
 The workflow is described in the DIRECT2025_08_Merzoug_GeneralizedCondAIHistoryMatching
 
 The WGAN-GP (Generative AI model) is trained using the WGAN-GP.ipynb
+
+
+Da.csv. is the interpolation for the days to ensure that the timesteps are aligned in all simulations
